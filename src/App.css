@@ -21,12 +21,13 @@ body {
 .appear-container {
   position: fixed;
   bottom: 0px;
-  left: 520px;
+  left: 18.5%; /* Center horizontally relative to the viewport */
+  transform: translateX(0%); /* Adjust position to be centered */
   width: 700px; /* Adjust width as needed */
   height: 700px; /* Adjust height as needed */
   display: flex;
   flex-direction: column; /* Ensure elements are stacked vertically */
-  align-items: center; /* Align items to the start horizontally */
+  align-items: center; /* Align items to the center horizontally */
   pointer-events: none;
 }
 

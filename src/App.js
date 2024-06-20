@@ -385,8 +385,8 @@ const App = () => {
               animationData={catAppear} 
               loop={false} 
               onComplete={() => {
-                setShowLottie(false);
-                setShowImage(false);
+                setShowLottie(true);
+                setShowImage(true);
               }} // Hide both Lottie animation and image on completion
             />
           </div>
