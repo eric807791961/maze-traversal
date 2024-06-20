@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/maze-traversal/static/css/main.556d5a82.css",
-    "main.js": "/maze-traversal/static/js/main.ffd21bf0.js",
+    "main.css": "/maze-traversal/static/css/main.c052b280.css",
+    "main.js": "/maze-traversal/static/js/main.e9f72849.js",
     "static/js/453.535743b3.chunk.js": "/maze-traversal/static/js/453.535743b3.chunk.js",
     "static/media/background.jpg": "/maze-traversal/static/media/background.aeb4a6d207f3c34ce67f.jpg",
     "static/media/success.png": "/maze-traversal/static/media/success.e39fa5f54a849d8fc1a5.png",
     "static/media/failed.png": "/maze-traversal/static/media/failed.5cc943d27eb3ed685271.png",
     "index.html": "/maze-traversal/index.html",
-    "main.556d5a82.css.map": "/maze-traversal/static/css/main.556d5a82.css.map",
-    "main.ffd21bf0.js.map": "/maze-traversal/static/js/main.ffd21bf0.js.map",
+    "main.c052b280.css.map": "/maze-traversal/static/css/main.c052b280.css.map",
+    "main.e9f72849.js.map": "/maze-traversal/static/js/main.e9f72849.js.map",
     "453.535743b3.chunk.js.map": "/maze-traversal/static/js/453.535743b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.556d5a82.css",
-    "static/js/main.ffd21bf0.js"
+    "static/css/main.c052b280.css",
+    "static/js/main.e9f72849.js"
   ]
 }
