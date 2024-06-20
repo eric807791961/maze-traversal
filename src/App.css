@@ -12,6 +12,7 @@ body {
 }
 
 .main-container {
+  margin-left: 350px;
   display: flex;
   align-items: flex-start;
 }
@@ -20,7 +21,7 @@ body {
 .appear-container {
   position: fixed;
   bottom: 0px;
-  left: 465px;
+  left: 520px;
   width: 700px; /* Adjust width as needed */
   height: 700px; /* Adjust height as needed */
   display: flex;

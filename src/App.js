@@ -355,20 +355,20 @@ const App = () => {
         <button onClick={createMaze}>Restart Maze</button>
         <button onClick={findShortestPath}>Find Shortest Path</button>
       </div>
-      <div className="info-container">
-        <p><span className="color-box" style={{ backgroundColor: 'white' }}></span> Path</p>
-        <p><span className="color-box" style={{ backgroundColor: 'black' }}></span> Obstacle</p>
-        <p><span className="color-box" style={{ backgroundColor: 'green' }}></span> Start</p>
-        <p><span className="color-box" style={{ backgroundColor: 'red' }}></span> Destination</p>
-        <p><span className="color-box" style={{ backgroundColor: 'lightblue' }}></span> Visited</p>
-        <p className="info-message" style={{ fontSize: '20px' }}>
-          😊 You can click and drag Start & Destination 😊
-        </p>
-      </div>
+    <div className="info-container">
+      <p><span className="color-box" style={{ backgroundColor: 'white' }}></span> Path</p>
+      <p><span className="color-box" style={{ backgroundColor: 'black' }}></span> Obstacle</p>
+      <p><span className="color-box" style={{ backgroundColor: 'green' }}></span> Start</p>
+      <p><span className="color-box" style={{ backgroundColor: 'red' }}></span> Destination</p>
+      <p><span className="color-box" style={{ backgroundColor: 'lightblue' }}></span> Visited</p>
+      <p className="info-message" style={{ fontSize: '20px' }}>
+        😊 You can click and drag Start & Destination 😊
+      </p>
+    </div>
 
-      <div className="cute-cat-container">
-        <Lottie animationData={CuteCat} loop={true} />
-      </div>
+    <div className="cute-cat-container">
+      <Lottie animationData={CuteCat} loop={true} />
+    </div>
       {showLottie && (
         <div className="appear-container">
           {showImage && (
