@@ -21,7 +21,7 @@ body {
 .appear-container {
   position: fixed;
   bottom: 0px;
-  left: 18.5%; /* Center horizontally relative to the viewport */
+  left: 28%; /* Center horizontally relative to the viewport */
   transform: translateX(0%); /* Adjust position to be centered */
   width: 700px; /* Adjust width as needed */
   height: 700px; /* Adjust height as needed */
