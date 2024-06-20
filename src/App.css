@@ -12,6 +12,7 @@ body {
 }
 
 .main-container {
+  position: relative;
   margin-left: 350px;
   display: flex;
   align-items: flex-start;
@@ -54,9 +55,9 @@ body {
 .cute-cat-container {
   position: fixed;
   top: 20px;
-  right: 100px;
-  width: 400px;
-  height: 400px;
+  right: 0%;
+  width: 20%;
+  
   pointer-events: none; /* Makes sure the Lottie animation doesn't block other interactions */
 }
 
