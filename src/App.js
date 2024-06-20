@@ -325,7 +325,7 @@ const App = () => {
   return (
     <div className="main-container">
       <div>
-        <h1 className="title">Maze Traversal</h1>
+        <h1 className="title">Maze Traversal !</h1>
         <div className="toggle-container">
           <div className="toggle-button">
             <button
